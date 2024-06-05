@@ -37,8 +37,8 @@ To set up this Flask application on your local machine, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flask-forum.git
-cd flask-forum
+git clone https://github.com/pyroalww/Forum-Backend
+cd Forum-Backend
 ```
 
 ### Create a Virtual Environment
